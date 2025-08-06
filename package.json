@@ -1,0 +1,46 @@
+{
+  "name": "personal-link-hub",
+  "version": "1.0.0",
+  "description": "A beautiful, modern, and responsive personal link hub inspired by Linktree",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'No build process needed - static files only'",
+    "deploy": "echo 'Deploy using your preferred hosting service'"
+  },
+  "keywords": [
+    "linktree",
+    "personal-links",
+    "portfolio",
+    "social-media",
+    "bio-link",
+    "landing-page",
+    "responsive",
+    "modern",
+    "css",
+    "javascript",
+    "html"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/personal-link-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/personal-link-hub/issues"
+  },
+  "homepage": "https://github.com/yourusername/personal-link-hub#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
